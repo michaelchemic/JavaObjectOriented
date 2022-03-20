@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "d75132e4622851a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "058e16e9efa0ead4",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "day06_类与对象、封装、构造方法/day06【类与对象、封装、构造方法】.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "90197abb15c26b40",
+    "type": "split",
+    "children": [
+      {
+        "id": "2aab1dcc8ac6017f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb4a7961b9262aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6d099f33efa46ef8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79512ac0f113f47f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cbd5b173e32ae03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c64b80227a7f8eff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "day06_类与对象、封装、构造方法/day06【类与对象、封装、构造方法】.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "058e16e9efa0ead4",
+  "lastOpenFiles": [
+    "day06_类与对象、封装、构造方法/day06【类与对象、封装、构造方法】.pdf",
+    "day07_Scanner类、Random类、ArrayList类/day07【Scanner类、Random类、ArrayList类】.pdf"
+  ]
+}
